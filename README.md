@@ -38,7 +38,7 @@ The grade is assigned based on the percentage obtained.
 
 ## Part D: File Handling Challenge
 
-This program creates a file named `student_data.txt`, stores student information, reads the file, and displays the saved contents.
+This program reads from file named `student_data.txt`, and displays the  contents.
 
 ### Output
 
