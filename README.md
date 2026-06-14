@@ -1,4 +1,4 @@
-# Python and C Programming - Task 04: Functions, File Handling & Student Management System
+# Python Programming - Task 04: Functions, File Handling & Student Management System
 
 ## Part A: Create and Use Functions
 
