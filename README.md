@@ -53,6 +53,7 @@ This program stores website credentials including website name, username, and pa
 ### Output
 
 ![Password Vault](screenshots/Screenshot%202026-06-14%20210813.png)
-![Created/Updated password_vault.txt contents](screenshots/Screenshot%202026-06-14%20210822.png)
+Created/Updated password_vault.txt contents
+![password_vault.txt](screenshots/Screenshot%202026-06-14%20210822.png)
 
 
